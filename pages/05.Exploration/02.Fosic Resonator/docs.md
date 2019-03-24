@@ -4,8 +4,6 @@ media_order: 'Fosic Resonator Crafting.jpg,small mist.jpg,large mist.jpg,starlig
 taxonomy:
     category:
         - docs
-jscomments:
-    active: false
 ---
 
 Now that you have a good amount of Liquid Starlight it's time to create your next item, the Fosic Resonator. This will require a bucket of Liquid Starlight and a gold ingot. This must be crafted on the Luminous Crafting Table.
