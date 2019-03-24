@@ -4,8 +4,6 @@ media_order: 'shrine.jpg,treasure-shrine.jpg,constellation-papers.jpg'
 taxonomy:
     category:
         - docs
-jscomments:
-    active: false
 ---
 
 **Astral Tome** - When you startup your world with Astral Sorcery installed you will spawn with a Tome on your hotbar, this little book is used throughout the mod and will act as a little guide and a sort of encyclopedia of the mod. When you open your Tome you will have one tab on the top right “ **_Knowledge_** ”. As you progress through the mod other tabs will open up (more on these later).     
