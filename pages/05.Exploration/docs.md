@@ -4,8 +4,6 @@ media_order: Exploration.jpg
 taxonomy:
     category:
         - docs
-jscomments:
-    active: false
 ---
 
 When you open your Tome you will see that you have a new chapter: _Exploration_. Double clicking (or scrolling) this will enter the chapter and give you more boxes:
