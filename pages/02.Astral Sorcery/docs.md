@@ -13,8 +13,6 @@ twittershareimg: /attunement/attuning-rock-crystals/Attuning%20Rock%20Crystals.j
 twittertitle: 'Astral Sorcery A Comprehensive Guide'
 twitterdescription: 'Astral Sorcery is a magical mod for Minecraft based on the night sky that helps you harness the power of Constellations to empower your weapons'
 facebookenable: false
-jscomments:
-    active: false
 ---
 
 Astral Sorcery is a magical mod for Minecraft based on the night sky that helps you harness the power of Constellations to empower your weapons and armor and the world around you.
