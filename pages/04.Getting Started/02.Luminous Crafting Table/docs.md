@@ -3,8 +3,6 @@ title: 'Luminous Crafting Table'
 taxonomy:
     category:
         - docs
-    jscomments:
-        active: false
 ---
 
 Go back to your crafting table that you placed down by the Collector Crystal and craft a Luminous Crafting Table (it is required to craft it by a Collector Crystal). The Luminous Crafting Table is used to craft most things within Astral Sorcery but this is the FIRST tier Table.
