@@ -1,8 +1,6 @@
 ---
 title: 'PDF Download'
 external_url: 'http://bit.ly/MCG-Astral-Sorcery'
-jscomments:
-    active: false
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true
