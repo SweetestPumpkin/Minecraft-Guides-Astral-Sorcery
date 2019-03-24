@@ -11,10 +11,10 @@ Every page and image from each guides website is here!
 ## How to edit files
 Editing guides and having your changes be accepted is relatively simple and can be done by anyone who has a GitHub account.
 
-
-### [How to Edit files](https://help.github.com/en/articles/editing-files-in-another-users-repository)
-
 We will always give you details on why your request has been denied.
+
+### [Editing Files With Github](https://help.github.com/en/articles/editing-files-in-another-users-repository)
+
 
 ## Folder Layout
 There are 2 types of Pages, Docs and Chapters, each page is in a .MD format (more details on MarkDown can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)). The only pages anyone will need to edit are docs.md.
