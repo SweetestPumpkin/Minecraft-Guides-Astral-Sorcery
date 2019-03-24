@@ -11,8 +11,6 @@ visible: true
 twitterenable: true
 twittercardoptions: summary
 facebookenable: false
-jscomments:
-    active: false
 ---
 
 The Lightwell needs to be crafted in the Luminous Crafting Table and requires a few Rock Crystals. Now when you hover over Rock Crystals and hold sneak you can see some properties of the Rock Crystal such as _Size_, _Purity_ and _Cutting_. When crafting your Lightwell make sure you pick the crystal with the LOWEST Purity, because you will need the higher Purity crystals later. The Purity of the crystal used has no effect on the Lightwell (but does for some other crafted blocks).
