@@ -1,4 +1,4 @@
-# Welcome to the Astral Sorcery Github Repository! 
+# Welcome to the Minecraft Guides: Astral Sorcery Github Repository! 
 
 Using Github we are able to update and edit each guide without having to take each guide offline! This also allows other GitHub users to add updates to each guide whether it be corrections or updates. This also allows us to save older versions of each guide as an archive.
 
