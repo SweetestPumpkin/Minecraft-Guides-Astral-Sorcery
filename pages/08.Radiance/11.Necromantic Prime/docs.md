@@ -1,5 +1,5 @@
 ---
-title: 'Evershifting Fountain, Fosic Resonator & Necromantic Prime'
+title: 'Evershifting Fountain, Fosic Resonator & Neromantic Prime'
 media_order: 'Ichosic Resonator.jpg,Fountain.jpg,Neromantic Prime.jpg,fountain in action.jpg,non working fountain.jpg'
 taxonomy:
     category:
