@@ -1,5 +1,5 @@
 ---
-title: 'Astral Sorcery'
+title: 'Astral Sorcery - A Comprehensive Guide'
 media_order: 'Attuning Rock Crystals.jpg'
 taxonomy:
     category:
