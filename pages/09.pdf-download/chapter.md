@@ -9,4 +9,4 @@ facebookenable: false
 
 # PDF Download
 
-This guide is also in PDF formart and can be found [Astral-Sorcery-A-Comprehensive-Guide.pdf.zip](Astral-Sorcery-A-Comprehensive-Guide.pdf.zip) and is in a ZIP file.
+This guide is also in PDF formart and can be found [Here](Astral-Sorcery-A-Comprehensive-Guide.pdf.zip) and is in a ZIP file.
