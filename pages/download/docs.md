@@ -9,4 +9,6 @@ twittercardoptions: summary
 facebookenable: false
 ---
 
-Your page content goes here.
+# Download
+
+[Astral-Sorcery-A-Comprehensive-Guide.pdf](Astral-Sorcery-A-Comprehensive-Guide.pdf.zip)
