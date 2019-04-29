@@ -11,6 +11,6 @@ category:
 active: false
 ---
 
-###  This guide is also in PDF formart and can be found <a href=/AS/user/pages/11.pdf-download/Astral-Sorcery-A-Comprehensive-Guide.pdf.zip target=”_blank” onclick=”_gaq.push([‘_trackEvent’,’Downloads’,’ZIP’,ASFile.href]);”>HERE</a> and is in a ZIP file.
+###  This guide is also in PDF formart and can be found [Astral-Sorcery-A-Comprehensive-Guide.pdf.zip](Astral-Sorcery-A-Comprehensive-Guide.pdf.zip) and is in a ZIP file.
 
 
