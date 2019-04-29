@@ -4,7 +4,6 @@ external_url: 'http://bit.ly/MCG-Astral-Sorcery'
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true
-media_order: ''
 category:
     - docs
 active: false
