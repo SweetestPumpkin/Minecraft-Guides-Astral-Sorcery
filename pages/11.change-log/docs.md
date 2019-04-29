@@ -11,6 +11,11 @@ facebookenable: false
 
 All notable changes to this guide will be documented here.
 
+## [1.0.1] - 30-03-2019
+### Fixed
+```
+- PDF Download Link Fixed
+```
 
 ## [1.0.0] - 25-03-2019
 ### Added
